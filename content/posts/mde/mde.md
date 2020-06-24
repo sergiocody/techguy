@@ -13,8 +13,18 @@ In July 2019 I received great news. I was IN a new learning program called MANAG
 This post will present you an overview of these tools.
 
 ### What I've learned
+Many things :smiley: :
 
-First 
+## 1. Create an habit
+
+## 2. Take care of yourself
+
+## 3. Help others
+
+## 4. Receive feedback
+
+## 5. Building relationships
+
 
 {{< img src="/images/work1.jpeg" width="900" align="center">}}
 
