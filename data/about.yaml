@@ -1,0 +1,47 @@
+# your designation
+designation: Senior Platform Engineer
+# your company information
+company:
+  name: Adidas
+  url: "https://careers.adidas-group.com/the-company"
+
+
+# a summary about you
+summary: 'I am a passionate software engineer & techy with 20 years of working experience || Do not repeat yourself: always [Automation](https://landing.google.com/sre/sre-book/chapters/automation-at-google/) || How? [Agile :-)](https://www.agilealliance.org/agile101/) '
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "codonal@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/sergiocody"
+
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported color: blue, yellow, pink, green
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 80
+  color: pink
+- name: Hard Working
+  percentage: 90
+  color: green
+- name: Tech skills
+  percentage: 90
+  color: red
