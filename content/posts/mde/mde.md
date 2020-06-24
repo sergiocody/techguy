@@ -12,15 +12,15 @@ categories:
 In July 2019 I received great news. I was IN a new learning program called MANAGER DEVELOPMENT EXPERIENCE [MDE]. Expectations where high. Who would tell me that time that coronavirus was going to temporally stop the program a few months later after giving me tools to deal with the new situation.
 This post will present you an overview of these tools.
 
-### Minimalist Design
+### What I've learned
 
-This theme has been designed to be minimalist and beautiful. The color scheme has been chosen to be simple but yet powerful. The post page has been designed to be as distraction-free as possible. Thanks to [Anup Deb](https://dribbble.com/anupdeb) for his design guidance.
+First 
 
-{{< img src="/images/posts/features/minimalist.png" width="900" align="center">}}
+{{< img src="/images/work1.jpeg" width="900" align="center">}}
 
 {{< vs 3 >}}
 
-### Responsive
+### How I applied
 
 The theme is fully responsive. It looks beautiful and consistent across Desktop, Laptop, Tablet, and Mobile devices.
 
@@ -28,7 +28,7 @@ The theme is fully responsive. It looks beautiful and consistent across Desktop,
 
 {{< vs 3 >}}
 
-### Carefully Designed Cards
+### How it help me these days
 
 The skill and project cards are designed carefully to give more meaningful information. The skill cards not only just list your skills. It also gives the viewer an idea about your depth of knowledge of the particular skill. The project cards give an idea about the popularity of your project if it is an open-source project on Github.
 
