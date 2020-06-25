@@ -25,7 +25,8 @@ You can achive all you want if you keep at it. In my case I started with a 15 mi
 It can sound obvious, but you can not give everything from you if you are not happy. Time for you: sleep well, read, do sport, healthy meals...
 
 #### 3. Motivate others
-Motivate and delegate.
+How are we teaching and helping each other to learn and grow?
+Role modeling ways to collaborate in cross-functional teams
 
 #### 4. Receive feedback
 One of the thing that always are complicated. if you don't know how other see your work you can not have a way to improve.
@@ -33,24 +34,20 @@ One of the thing that always are complicated. if you don't know how other see yo
 #### 5. Building relationships
 Build GOOD relations. That means quality not quantity. Another take over was to think in a way to mesasure.
 
-{{< img src="/images/work1.jpeg" width="900" align="center">}}
-
+{{< img src="/images/remote.jpg" width="900" align="center">}}
 {{< vs 3 >}}
-
-### How
-
-
-
 
 
 ### How I applied and howit help me these Coronavirus days
 
 {{< img src="/images/coronavirus.jpg" width="900" align="center">}}
-
 {{< vs 3 >}}
 
-The skill and project cards are designed carefully to give more meaningful information. The skill cards not only just list your skills. It also gives the viewer an idea about your depth of knowledge of the particular skill. The project cards give an idea about the popularity of your project if it is an open-source project on Github.
+And everything became even more important these days. Examples:
+1. I've created an habit for doing some work sport
+2. I've continued with my meditation
+3. I've take care about motivation with my team mates
+4. I request for feedback, improvement points..
+5. I tried to detect stakeholder that can provide me more benefit
 
-{{< img src="/images/remote.jpg" width="900" align="center">}}
-{{< vs 3 >}}
 
