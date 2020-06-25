@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: http://techguy.netlify.app/
 languageCode: en-us
 title: "Toha"
 theme: "toha"
@@ -21,4 +21,4 @@ enableEmoji: true
 # Custom parameters
 params:
   # Github Repo URL. This is used to add "Improve This Page" button
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  gitRepo: https://github.com/sergiocody/techguy
