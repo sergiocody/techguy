@@ -3,7 +3,7 @@ title: "Mde"
 date: 2020-06-24T08:59:13+06:00
 hero: /images/achievements/sport.jpg
 author:
-  name: Sergio Codonal
+  name: Sergio
   image: /images/avatar.png
 categories:
 - Mde
