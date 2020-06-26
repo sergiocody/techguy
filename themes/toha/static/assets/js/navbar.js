@@ -15,7 +15,7 @@
         $('#navbar-toggler').removeClass('navbar-dark');
         $('#navbar-toggler').addClass('navbar-light');
 
-        $('#logo').attr("src","assets/images/logo.png");
+        $('#logo').attr("src","assets/images/favicon.png");
       } else {
         $('#top-navbar').removeClass('final-navbar shadow');
         $('#top-navbar').addClass('initial-navbar');
