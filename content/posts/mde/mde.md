@@ -36,6 +36,9 @@ It can sound obvious, but you can not give everything from you if you are not he
 You have to think: how am I helping each other to learn and grow? It's important as you can be a role model of your colleagues. 
 Furthermore, collaboration is a must. I thought about ways to being collaborative in cross-functional teams.
 
+{{< img src="/images/remote.jpg" width="900" align="center">}}
+{{< vs 3 >}}
+
 ##### 4. Receive feedback
 One of the things I like least :-) By default you don't want to ask for feedback... but it's crutial. Is the way to get real performance indicators of your work and find the path to improve.
 
@@ -43,28 +46,23 @@ One of the things I like least :-) By default you don't want to ask for feedback
 Build GOOD relationships... That means quality not quantity. Number of linkedin contact is not relevant. Ypur connection with key people are.
 Another great take over was to think in a way to mesasure these relationships woth your stakeholders.. are you providing what they are expecting? Are they influence in your backlog? How can I measure my impact?
 
-{{< img src="/images/remote.jpg" width="900" align="center">}}
-{{< vs 3 >}}
-
 
 ### How I applied... working from home 
 
-And everything became even more important after home office was a standard.
+And everything became even more important after home office was a standard. MDE learning helped me in this situation, let's see how....
 
 {{< img src="/images/coronavirus.jpg" width="900" align="center">}}
 {{< vs 3 >}}
 
-How MDE learning helped me in this situation?
+###### 1. Create good habits and take care of myself
+Even more importan at home: along with my meditation habit, I've created an habit for doing some "home sport" at home.
+Also, I've tried to sleep well, eat healthy, read a lot of books (I love it)...
 
-###### 1. Create good habits 
-Even more importan at home: along with my meditation habit,  I've created an habit for doing some "home sport" at home. 
-###### 2. Take care of yourself
-I've tried to sleep well, eat healthy, read a lot of books (I love it)...
-###### 3. Motivate others
-Do it remotly is always a challenge. But it really worth to invest time in it. Have a fluid communications with my coplleagues of the different areas has been important.
-###### 4. Feedback
-You can feel "isolate", so feedback about how you are doing became a key. 
-###### 5. Build relationships
-Along with feedback, the need of building "remote" relationships with stakeholders is imperative now. I've tried to detect stakeholder that can provide us more benefit. A clear tracking of the feedback has been a good starting point.
+###### 2. Motivate others
+Do it remotly is always a challenge. But it really worth to invest time in it. Have a fluid communications with my colleagues of the different areas has been important to identify pain points and improme my performance and the behaviour of the applications I'm responsible of.
+
+###### 3. Receive feedback and build relationships
+You can feel "isolate", so feedback about how you are doing became a key. I've learned to ask and have open talks with my colleagues.
+Along with feedback, the need of building "remote" relationships with stakeholders is imperative. I've tried to detect stakeholder that can provide us more benefit. A clear tracking of the feedback has been a good starting point.
 
 Hope it helps. Thanks for reading :-)
