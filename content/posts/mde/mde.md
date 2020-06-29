@@ -9,7 +9,8 @@ categories:
 - Mde
 ---
 
-In July 2019 I received great news. I was IN a new learning program called MANAGER DEVELOPMENT EXPERIENCE [MDE]. Expectations where high. 
+### Background
+In July 2019 I received great news. I was included in a new learning program called MANAGER DEVELOPMENT EXPERIENCE [MDE]. Expectations where high. 
 Who would tell me that time that coronavirus was going to temporally stop the program a few months later after giving me tools to deal with the new situation.
 This post will show you an overview of these tools.
 
@@ -17,14 +18,14 @@ This post will show you an overview of these tools.
 {{< vs 3 >}}
 
 ### What I've learned
-Actually many things. Trough the workshops and practices I've realized of things that can be improved.
+Actually many things. Trough the workshops and practices I've realized of things that can be improved. Some of the key takeaways:
 
 ##### 1. Create an (good) habit
-You can achive all you want if you keep at it. 
-In my case as part of the program I started with a 15 minutes meditation time. After some weeks it became an habbit. Since then, I've done the same for small thing that improved my day to day.
+You can achive many things if you keep at it. 
+In my case as part of the program I started with a 15 minutes meditation time. It was a good learning as after some weeks it became an habbit. Since then, I've done the same for small like a "sport at home" session that improved my day to day.
 
 ##### 2. Take care of yourself
-It can sound obvious, but you can not give everything from you if you are not happy. It's important to reflect. You need time for you and take care of yourself: 
+It can sound obvious, but you can not give everything from you if you are not healthy and happy. It's important to reflect. You need time for you and take care of yourself: 
 - sleep well.. 8 hours is perfect
 - read 
 - practice some sport
@@ -36,29 +37,34 @@ You have to think: how am I helping each other to learn and grow? It's important
 Furthermore, collaboration is a must. I thought about ways to being collaborative in cross-functional teams.
 
 ##### 4. Receive feedback
-One of the thing that always are complicated. By default you don't want to ask for feedback... but it's crutial. Is the way to get real performance indicators of your work and find the path to improve.
+One of the things I like least :-) By default you don't want to ask for feedback... but it's crutial. Is the way to get real performance indicators of your work and find the path to improve.
 
 ##### 5. Building relationships
-Build GOOD relationships... That means quality not quantity. 
+Build GOOD relationships... That means quality not quantity. Number of linkedin contact is not relevant. Ypur connection with key people are.
 Another great take over was to think in a way to mesasure these relationships woth your stakeholders.. are you providing what they are expecting? Are they influence in your backlog? How can I measure my impact?
 
 {{< img src="/images/remote.jpg" width="900" align="center">}}
 {{< vs 3 >}}
 
 
-### How I applied and howit help me these Coronavirus days
+### How I applied... working from home 
 
-And everything became even more important after Coronavirus broke into our lives. More home office
+And everything became even more important after home office was a standard.
 
 {{< img src="/images/coronavirus.jpg" width="900" align="center">}}
 {{< vs 3 >}}
 
-All MDE learning helped me in this situation:
+How MDE learning helped me in this situation?
 
-###### 1. Create good habits are even more importan at home: I've created an habit for doing some work sport
-###### 2. Take care of yourself physicaly an mentally is even more important: I've continued with my meditation, practicing sport, sleep well, read a lot...
-###### 3. Motivate remotly is always a challenge. But it really worth to invest time in it.
-###### 4. You can feel "isolate" so request for feedback became a key. 
-###### 5. The need of building "remote" relationships with stakeholders is an imperative thing. I used my background experience to detect stakeholder that can provide me more benefit and improve the relationships.
+###### 1. Create good habits 
+Even more importan at home: along with my meditation habit,  I've created an habit for doing some "home sport" at home. 
+###### 2. Take care of yourself
+I've tried to sleep well, eat healthy, read a lot of books (I love it)...
+###### 3. Motivate others
+Do it remotly is always a challenge. But it really worth to invest time in it. Have a fluid communications with my coplleagues of the different areas has been important.
+###### 4. Feedback
+You can feel "isolate", so feedback about how you are doing became a key. 
+###### 5. Build relationships
+Along with feedback, the need of building "remote" relationships with stakeholders is imperative now. I've tried to detect stakeholder that can provide us more benefit. A clear tracking of the feedback has been a good starting point.
 
-Thanks for reading :-)
+Hope it helps. Thanks for reading :-)
